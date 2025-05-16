@@ -6,7 +6,7 @@ This repository was developed as part of the Data Structures and Algorithms cour
 
 ## Purpose
 
-This project aims to develop algorithmic thinking and problem-solving skills through matrix operations. It helps participants improve their analytical thinking and basic programming abilities.
+This project aims to develop algorithmic thinking and problem-solving skills through matrix operations. It helps participants improve their analytical thinking and basic programming abilities. 
 
 ## Technologies Used
 
